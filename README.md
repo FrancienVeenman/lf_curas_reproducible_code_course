@@ -16,6 +16,10 @@ Two dummy data objects are provided:\
 - **Phyloseq object**: `"dummy_phyloseq.Robject"`\
 - **Long dataframe with the imputed metadata**: `"dummy_imputed_dataframe_long.Rda"`\
 
+Two R scripts are provided:\
+- Main analyses script: `"20250403_script_reproducible_lf_curas_om.R"`\
+- script with functions: `"functions.R"`\
+
 ## Dependencies
 
 The following R packages and versions are required for running the code:
